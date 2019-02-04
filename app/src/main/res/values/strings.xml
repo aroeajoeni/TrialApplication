@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trial Application</string>
+    <string name="save">SAVE</string>
+    <string name="edit">EDIT</string>
+    <string name="hello_world_good_morning">Hello World, good morning!</string>
+    <string name="todo">TODO</string>
+</resources>
